@@ -1,96 +1,107 @@
-# randomtyms-worksheets
+# 📚 RandomTyms Worksheets — Free Tamil & English Worksheets for Class 1-8
 
-Welcome to the official educational resource library of RandomTyms, featuring Lokesh & Varsha, two AI-animated Tamil-English sibling characters helping children learn through stories, curiosity, and fun.
+**Free printable worksheets, posters & classroom activities for kids — bilingual Tamil + English.**
 
-Created independently in Chennai by Ganga Ponnu, this repository contains free worksheets, posters, classroom activities, and printable resources designed for students, parents, and educators.
+From the creators of AI-animated siblings **Lokesh (8) & Varsha (13)**. Built solo in Chennai by [Ganga Ponnu](https://lokeshvarsha.blogspot.com/). No sign-up. No ads. No tracking. 100% free.
 
----
+🔗 **Live App Hub:** https://randomtyms.github.io/
+📖 **Blog:** https://lokeshvarsha.blogspot.com/
+🎬 **YouTube Shorts:** @RandomTyms
+📂 **License:** MIT — free for schools, parents, tuition centres
 
-🌟 About RandomTyms
-
-RandomTyms is a bilingual educational universe built around two sibling characters:
-
-👦 Lokesh (8)
-
-An energetic and curious young learner who asks endless questions and loves experiments.
-
-👧 Varsha (13)
-
-His calm and thoughtful elder sister who guides him through science, language, technology, and everyday life lessons.
-
-Together, they explore the world through stories, humour, and hands-on learning.
+### Why teachers use this repo?
+All worksheets are visual, story-driven, and made for low-ink printing. Works for CBSE, ICSE, and Tamil Nadu Samacheer Kalvi.
 
 ---
 
-📂 Repository Contents
+## 🌟 About Lokesh & Varsha
 
-### 🔢 Mathematics
+**RandomTyms** is a bilingual learning universe:
 
+- 👦 **Lokesh (8)** — Curious, asks endless questions, loves experiments
+- 👧 **Varsha (13)** — Calm elder sister who explains science, English, tech & life lessons
+
+They make learning memorable for kids who love stories — especially kids who wear glasses, who see themselves as HEROES in this universe.
+
+---
+
+## 📂 What's Inside — By Subject
+
+### 🔢 Mathematics [Class 1-8 | Place Value, Fractions, Tables]
 - Place value worksheets
-- Number practice sheets
-- Fractions and arithmetic exercises
+- Number writing & counting
+- Fractions, arithmetic, multiplication drills
+- `Print: Class 2 Math - Place Value.pdf`
 
-### 📝 English
-
-- Grammar worksheets
+### 📝 English [Class 1-8 | Grammar, Vocab, Comprehension]
+- Grammar: Nouns, Verbs, Tenses, Articles
 - Vocabulary builders
-- Reading comprehension activities
+- Reading comprehension with questions
+- `Perfect for: CBSE English, Samacheer English`
 
-### 🔬 Science
+### 🔬 Science [Class 3-8 | Experiments, STEM]
+- Hands-on experiments with household items
+- Observation sheets
+- Life science, physics basics
+- STEM challenges
 
-- Experiments
-- Observation activities
-- STEM learning resources
-
-### 🛡 Digital Dharma
-
+### 🛡️ Digital Dharma [Cyber Safety | Class 4-10]
 - Cyber safety lessons
-- Responsible technology use
-- Internet awareness activities
+- Responsible phone & internet use
+- Scam awareness, password safety
+- Based on our Digital Dharma story series
 
-### 🚀 Space Secrets
+### 🚀 Space Secrets [Astronomy | Class 2-8]
+- Solar system worksheets
+- Planet fact sheets, moon phases
+- Space science visuals
 
-- Astronomy worksheets
-- Solar system activities
-- Space science resources
-
-### 🎨 Posters
-
-- Printable classroom posters
-- Grammar charts
-- Science visuals
-
----
-
-🎯 Our Goal
-
-To make learning:
-
-- memorable,
-- visual,
-- story-driven,
-- culturally relatable,
-- and enjoyable for modern bilingual families.
+### 🎨 Posters & Charts [Printable | A4, Low-Ink]
+- Classroom grammar charts
+- Science posters
+- Space & safety posters
+- Ready for lamination
 
 ---
 
-🌐 Explore More
+## 👩‍🏫 For Teachers — How to Use in 10 Minutes
 
-- Official Website: https://lokeshvarsha.blogspot.com
-- Educational Blog Articles
-- Animated Shorts
-- Stickers and GIFs
-- Printable Resources
+1.  Go to Code > Download ZIP or open any folder
+2.  Print A4 — all files are low-ink, black & white friendly
+3.  Use with our free tools: [AI Quiz Generator](https://randomtyms.github.io/) for revision, [Spinner Wheel](https://randomtyms.github.io/) for groups
 
----
+**Search tip for teachers:** Use `is:pdf Class 5 Fractions` in GitHub search bar to find exact sheet.
 
-👩‍💻 Created By
+## 👨‍👩‍👧 For Parents — How to Use at Home
 
-### Ganga Ponnu
-Creator of RandomTyms and the Lokesh & Varsha Universe.
-
-Built independently from Chennai, India using modern AI tools, storytelling, and educational design.
+Install the PWA hub (randomtyms.github.io > Add to Home Screen) and practice one worksheet a day. No login needed.
 
 ---
 
-"Curiosity is where every adventure begins."
+## ✨ Features
+
+- 📄 PDF + PNG — easy to print and share on WhatsApp
+- 🌐 Bilingual: Tamil + English support
+- 🏫 Aligned: CBSE, ICSE, Samacheer Kalvi
+- 🖨️ Low-ink design for Chennai / small-town printers
+- 🔒 Safe: No ads, no data collection, kid-safe
+
+## 🌐 Explore More
+
+- 🏠 [Home](https://lokeshvarsha.blogspot.com/p/home.html)
+- 🚀 [Space Secrets Series](https://lokeshvarsha.blogspot.com/p/space-secrets-series-lokesh-varsha.html)
+- 🛡️ [Digital Dharma — Cyber Safety](https://lokeshvarsha.blogspot.com/p/digital-dharma-series-krishnas-timeless.html)
+- 📱 [Live App Hub](https://randomtyms.github.io/)
+
+## 📈 Keywords
+
+Free worksheets for kids, Tamil worksheets, English worksheets Class 1-8, Samacheer Kalvi worksheets, CBSE worksheets PDF, printable worksheets Chennai, Lokesh Varsha worksheets
+
+---
+
+### 🙏 Request
+If you are a teacher in Tamil Nadu using this, please ⭐ star this repo — it helps other parents find it for free.
+
+Made with ❤️ in Chennai by one mom, one phone.
+
+> "Curiosity is where every adventure begins." 
